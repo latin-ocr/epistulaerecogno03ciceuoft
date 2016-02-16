@@ -1,0 +1,45 @@
+SIGLA
+
+PER EPiS'sVLAs AD QUINTVM FRATREM
+M = codex Mediceus 49. 18 saecl. xiv, xv
+M¹ = codicis Medicei manus prima
+M2 = codicis Medicei manus altera
+C= codex Cratandri3 cf. Praef.
+R = editio Romana 1470
+J= editio Iensoniana 1470
+
+PER COMMENTARIOLVM PETITIONIS
+
+H = codex Harleianus 2682 saecl. xi
+F= codex olim Erfurtensis nunc Berolinensis 252
+saecl. xii, xiii
+Lag. 50 = codex Lagornarsinianus 50
+dett. = deteriores codices
+
+PER EPISTVLAS AD BRVTVM
+M, M ¹, sil ², (ᾇ, li', l, ut supra
+Ls. = codex Laurisheimensis, ante saecl. xi ; cf. Praef.
+Σ = codicum familia a Lehmanno in lucem prolata.
+quae ab M discrepat
+Αἵ = editio Ascensiana secunda 1521—2.
+
+PER EPISTVLAM AD OCTAVIANVM
+
+M, ill¹³ ast, C, R, l, ul supra
+T = codex quo Turnebus usus est; cf. Praef.
+
+PER OMNIS EPJS'rVLAs
+
+Cral. = Cratandri editio
+
+Vlct. = Victori editio
+illan. = Manuti editio
+
+Lamb. = Lambini editio
+codd. = consensus codicum vel omnium vel praestantiorum
+per singulas partis
+vett. = codices recentiores editoresve vetusti
+vulg. = scriptura in editionibus vulgata
+
+ 
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistulaerecogno03ciceuoft_0008.png"; bbox 0 0 1871 2782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 718 1132 1196 1290">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 718 1132 1196 1290">
+     <span class='ocr_line' id='line_1_1' title="bbox 877 1132 1045 1161; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 877 1132 1045 1161; x_wconf 92' lang='lat' dir='ltr'><em>OXONll</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 718 1193 1196 1222; baseline 0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 718 1193 903 1222; x_wconf 80' lang='lat' dir='ltr'><em>Excudebat</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 924 1193 1084 1222; x_wconf 81' lang='lat' dir='ltr'><em>Horatius</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1105 1194 1196 1222; x_wconf 82' lang='lat' dir='ltr'><em>Hart</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 739 1254 1170 1290; baseline 0.002 -9"><span class='ocrx_word' id='word_1_5' title='bbox 739 1254 962 1290; x_wconf 54' lang='lat' dir='ltr'><em>Epagraphus</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 979 1254 1170 1282; x_wconf 79' lang='lat' dir='ltr'><em>academicus</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1813 0 1871 2782">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1813 0 1871 2782">
+     <span class='ocr_line' id='line_1_4' title="bbox 1813 0 1871 2782; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1813 0 1871 2782; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
